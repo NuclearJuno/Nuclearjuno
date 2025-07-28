@@ -1,12 +1,5 @@
 <p align="center"> ❤️ </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=NuclearJuno&theme=radical&mode=weekly" />
- </div>
- 
- &nbsp;
- &nbsp;
-
 
 
 ## My Skills
