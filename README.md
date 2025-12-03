@@ -12,12 +12,12 @@
 - 🐧 Getting comfortable with Linux for software development and system administration.  
   
 
-- 💎 Learning Ruby. 🚀 and i'm currently exploring the Rails stack and following beginner-friendly tutorials to deepen my understanding of Ruby on Rails development.  
-  
+- 📚 Learning Java with Spring Boot, Maven, and SQL. Exploring backend development with Java ecosystem and Ruby with VS Code, exploring the Rails stack with beginner tutorials.
 
+  
 - 🗃️ Exploring databases like PostgreSQL (relational) and MongoDB (NoSQL) to manage and query data.  
-  
 
+  
 - 📦 Practicing Git and GitHub for version control and collaboration in team projects.  
   
 
